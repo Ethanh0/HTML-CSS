@@ -48,3 +48,12 @@ a{
     color: white;
 }
 
+/* cake page */
+
+.cake-text {
+    font-family: verdana, geneva, tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
